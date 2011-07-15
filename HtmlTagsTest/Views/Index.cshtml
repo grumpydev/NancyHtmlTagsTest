@@ -1,0 +1,14 @@
+﻿@using HtmlTagsTest
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+    <body>
+        <div>
+              @*Don't seem to be able to use the expression variant here*@
+              Testing: @EditorHelpers.EditorFor(@Model, "Testing")
+        </div>
+    </body>
+</html>

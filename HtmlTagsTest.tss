@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\Views\Index.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\MainModule.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\Web.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\Bootstrapper.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\CustomRazorConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\TestModel.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>t:\HtmlTagsTest\HtmlTagsTest\EditorHelpers.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
